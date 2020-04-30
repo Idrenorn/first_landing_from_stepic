@@ -1,0 +1,13 @@
+.logo {
+    display: inline-block;
+    background-image: url(https://i.ibb.co/k24sYkZ/Vector.png);
+    margin: 0 5px;
+    padding: 5px auto;
+}
+
+.container {
+    width: 100%;
+    max-width: 1219px;
+    padding: 0 55px;
+    margin: 0 auto;
+}
